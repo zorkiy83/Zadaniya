@@ -14,6 +14,5 @@ public class Main {
         } else {
             System.out.println("нечетное " + a);
         }
-        //System.out.println(c);
     }
 }
